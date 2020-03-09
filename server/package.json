@@ -1,0 +1,28 @@
+{
+  "name": "graphql-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/art1373/graphql-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/art1373/graphql-practice/issues"
+  },
+  "homepage": "https://github.com/art1373/graphql-practice#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^14.6.0",
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
