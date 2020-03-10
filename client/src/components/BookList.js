@@ -11,6 +11,7 @@ const BOOK_QUERY = gql`
     }
   }
 `;
+//change this into one file
 
 const BookList = () => {
   const { loading, error, data } = useQuery(BOOK_QUERY);
